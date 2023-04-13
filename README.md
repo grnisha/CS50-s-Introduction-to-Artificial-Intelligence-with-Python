@@ -2,4 +2,4 @@
 
 Hi! here are my CS50s solutions...
 
-Visit https://cs50.harvard.edu/ai/2020/ for more details.
+Visit [course site](https://cs50.harvard.edu/ai/2020/) for more details.
