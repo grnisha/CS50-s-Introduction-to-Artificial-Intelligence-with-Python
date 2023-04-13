@@ -1,0 +1,9 @@
+To submit the work
+git init
+git checkout -b 'ai50/projects/2020/x/xxxx'
+git status
+git add -A
+git commit -am 'comment'
+git remote add origin https://github.com/me50/username.git
+git remote
+git push origin --all
